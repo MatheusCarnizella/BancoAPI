@@ -2,7 +2,7 @@ Utilizei dos meus conhecimentos para gerar essa MinimalAPI, um recurso do da ver
 
 Para usufruir dessa é preciso alguns passos antes de abrir a API.
 
-- 1: Abrir o CMD e digitar o comando "dotnet tool install --global dotnet-ef" e em seguida digitar "dotnet ef" para confirmar a instalação.
+- 1: Abrir o CMD e digitar o comando "dotnet tool install --global dotnet-ef" e em seguida digitar "dotnet ef" para confirmar a instalação (Instalação necessaria para criação do banco de dados no SQLServer ou outro banco da sua preferência - o utilizado aqui foi SQLServer).
 
 - 2: Abrir outro CMD e digitar "cd -Diretório onde se encontra a pasta da API\BancoAPI\BancoAPI".
 
